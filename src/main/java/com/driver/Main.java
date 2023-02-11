@@ -7,6 +7,7 @@ public class Main {
         mercedes.accelerate(20);
         mercedes.accelerate(-60);
     }
+    /*
     public class Boat implements WaterVehicle{
 
         private String name;
@@ -38,4 +39,5 @@ public class Main {
             return 0;
         }
     }
+    */
 }
